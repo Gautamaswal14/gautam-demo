@@ -1,2 +1,2 @@
 #gautam-demo.
-this is git & githud class.
+this is git & githud class
